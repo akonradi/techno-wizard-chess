@@ -1,0 +1,2 @@
+ChessPiece piece
+BoardPosition pos
